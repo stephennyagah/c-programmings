@@ -1,0 +1,6 @@
+//first programme in c
+# include<stdio.h>
+int main() {
+printf("Stephen Nyaga Kithu");
+return 0;
+}
